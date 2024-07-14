@@ -1,2 +1,2 @@
-# Ishant Kamra
+
 # Sales Analyst 
