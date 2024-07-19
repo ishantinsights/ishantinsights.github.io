@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ishant</h1>
-<h3 align="center">A passionate Data Analyst with with 2 years of experience in data analytics and a proven track record in customer segmentation, sales insights, and operational improvements .Having advanced  SQL certification from HackerRank and Tableau Desktop Specialist badge
+<h3 align="center">A passionate Data Analyst with with 2 years of experience in data analytics and a proven track record in customer <h3 align="left">segmentation, sales insights, and operational improvements .Having advanced  SQL certification from HackerRank and Tableau Desktop Specialist badge
 
 </h3>
 
