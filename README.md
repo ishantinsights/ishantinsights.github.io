@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Ishant
-#### Sales Analyst with 2 years of experience in data analytics
-![Sales Analyst with 2 years of experience in data analytics](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3THgdG7BrzKDq5kpcNohKS&ust=1721505427912000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODT9s_xs4cDFQAAAAAdAAAAABAE)
+![](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0MTk1NDAsIm5iZiI6MTcyMTQxOTI0MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJ
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+TJGMjAyNDA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE5VDIwMDA0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzOTlmMzgzZWMwOTgzMjI2YWZiNGQwMjI2MmQ5YmZiZmQ5ZWNhMzgwYWI1ZjUwYTQyODRjYWJlODZiMzRjMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Hm8EFpOSSfnzFN3rmUlvjtb1Q3IBB3NseA3BntExeJo)
+
+Sales analyst professional with 2 years of experience in data analytics and a proven track record in customer segmentation, sales insights, and operational improvements .Having advanced  SQL certification from HackerRank and Tableau Desktop Specialist badge
 
 Skills: Excel | SQL | Tableau | PowerBI | Python
 
-- 🔭 I’m currently working on this page. 
 
 
 
@@ -18,7 +18,6 @@ Skills: Excel | SQL | Tableau | PowerBI | Python
 
 
 
-📫 How to reach me **ishant.xp23025@greatlakes.edu.in**
 
 
 
