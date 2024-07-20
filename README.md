@@ -5,7 +5,7 @@ Sales analyst professional with 2 years of experience in data analytics and a pr
 
 Skills: Excel | SQL | Tableau | PowerBI | Python
 
-- 🔭 I’m currently working on this page. 
+# Project 1: 
 
 
 
