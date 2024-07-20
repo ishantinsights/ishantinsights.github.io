@@ -3,7 +3,7 @@
 
 
 
-Skills: Excel | [SQL](sql advanced hackerrank.JPG) | Tableau | PowerBI | Python
+Skills: Excel | ![SQL](sql advanced hackerrank.JPG) | Tableau | PowerBI | Python
 
 *click on the project title to view the code*
 ##  [Project 1: Customer Segmentation of Cloud Kitchen - RFM Model](https://github.com/ishantinsights/Customer-Segmentation/blob/4fa2f776e4e2eb6b626c8c0e0dc6492385393c9b/Customer_Segmentation.ipynb)
