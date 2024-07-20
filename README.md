@@ -5,7 +5,9 @@ Sales analyst professional with 2 years of experience in data analytics and a pr
 
 Skills: Excel | SQL | Tableau | PowerBI | Python
 
-# Project 1: 
+click on the project title to view the code
+# Project 1: Customer Segmentation of Cloud Kitchen - RFM Model
+-  jkjk
 
 
 
