@@ -7,7 +7,7 @@ Skills: Excel | SQL | Tableau | PowerBI | Python
 
 click on the project title to view the code
 # Project 1: Customer Segmentation of Cloud Kitchen - RFM Model
--  jkjk
+> A cloud kitchen aims to optimize its marketing efforts and improve customer retention. By segmenting its customers using the Recency, Frequency, Monetary (RFM) model, the kitchen can target marketing strategies more effectively and personalize customer engagement
 
 
 
