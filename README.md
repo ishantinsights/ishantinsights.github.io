@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ishant
+### Hi there 👋, my name is Ishant and I'm on a thrilling journey to dive into the world of data analytics
 ![](1671108497577.gif)
 
 
