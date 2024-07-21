@@ -32,9 +32,11 @@
 
 - Step 4: Insights and Recommendations: Insights gained from the analysis provided valuable recommendations for the company. For instance, focusing marketing efforts on weekdays and during clear weather could optimize rental revenues. Additionally, understanding seasonal demand patterns could inform resource allocation and operational planning.
 
-## Conclusion: The data-driven analysis offered a comprehensive understanding of demand trends for shared electric cycles in the Indian market. By leveraging insights from this analysis, company can make informed decisions to enhance user experience, optimize operations, and drive business growth.
-
-
+### Outcome: 
+- Weather Significantly Affects Demand : Clear weather seems to be the most favorable condition for renting electric bikes, while light rain has the least favorable conditions
+- Seasonal Impact on Rental Demand : Fall exhibits the highest demand for rental bikes, while spring shows the lowest demand
+- Day of the Week Influences Demand : Weekdays witness higher demand for rental bikes compared to weekends, suggesting a potential weekday commuter market
+- Hourly Demand Patterns : Hourly trend show that counts vary significantly during the day, peaking in the afternoon, gradually declining in the evening and at night, and being at their lowest in the early morning, morning, and evening hours
 
 
 
