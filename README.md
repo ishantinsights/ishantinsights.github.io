@@ -26,7 +26,7 @@
 
 - Step 1: Understanding the Data: The journey began with exploring and preparing the dataset, which included variables such as datetime, season, weather, temperature, humidity, and bike counts. Basic data checks(missing values handling/duplicate rows/outlier handling/converting numerical columns to categorical columns) were performed to ensure data integrity and completeness.
 
-- Step 2: Exploratory Data Analysis (EDA): Univariate and bivariate analyses were conducted to understand the distribution and relationships between various factors and bike rental counts. Visualizations revealed intriguing patterns, such as higher demand during clear weather and weekdays, as well as seasonal variations in rental counts.
+- Step 2: **Exploratory Data Analysis (EDA)**: Univariate and bivariate analyses were conducted to understand the distribution and relationships between various factors and bike rental counts. Visualizations revealed intriguing patterns, such as higher demand during clear weather and weekdays, as well as seasonal variations in rental counts.
 
 - Step 3: Hypothesis Testing: To delve deeper into the factors influencing demand, hypothesis testing was conducted. Tests examined the effects of variables like day category (weekday/weekend), weather conditions, and seasons on bike rental counts. Results indicated significant relationships between weather conditions, seasons, and rental demand.
 
