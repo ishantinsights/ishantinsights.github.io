@@ -40,10 +40,11 @@
 
 ## [Project 3: Ecommerce KPI Dashboard Using Tableau](https://public.tableau.com/app/profile/ishant.kamra/viz/SuperStoreDashboard_17016337291000/Dashboard1)
 
-![Dashboard](C:\Users\91704\Downloads)
 
 
 
+
+![Ecommerce Dashboard_page-0001](https://github.com/user-attachments/assets/adf6de65-f9e6-4b73-a7e6-427993d556da)
 
 
 
