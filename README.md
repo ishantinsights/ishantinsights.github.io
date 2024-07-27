@@ -38,7 +38,9 @@
 - **Day of the Week Influences Demand** : Weekdays witness higher demand for rental bikes compared to weekends, suggesting a potential weekday commuter market
 - **Hourly Demand Patterns** : Hourly trend show that counts vary significantly during the day, peaking in the afternoon, gradually declining in the evening and at night, and being at their lowest in the early morning, morning, and evening hours
 
+## [Project 3: Ecommerce Dashboard Using Tableau](https://public.tableau.com/app/profile/ishant.kamra/viz/SuperStoreDashboard_17016337291000/Dashboard1)
 
+[]()
 
 
 
