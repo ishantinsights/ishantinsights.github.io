@@ -7,6 +7,8 @@
 
 *click on the project title to view the code*
 ##  [Project 1: Customer Segmentation of Cloud Kitchen - RFM Model](https://github.com/ishantinsights/Customer-Segmentation/blob/4fa2f776e4e2eb6b626c8c0e0dc6492385393c9b/Customer_Segmentation.ipynb)
+![Segmentation image](https://github.com/user-attachments/assets/8aad7aed-3420-4916-a091-0fe045caf623)
+
 > A cloud kitchen aims to optimize its marketing efforts and improve customer retention. By segmenting its customers using the Recency, Frequency, Monetary (RFM) model, the kitchen can target marketing strategies more effectively and personalize customer engagement
 
 - Step 1 involved calculating the monetary value : Understanding the total monetary value of each customer
@@ -46,10 +48,13 @@
 
 ![Ecommerce Dashboard_page-0001](https://github.com/user-attachments/assets/adf6de65-f9e6-4b73-a7e6-427993d556da)
 
+## Project 4 : KPI Dashboard Using Excel
 
 
 
 
+
+![KPI Dashboard ](https://github.com/user-attachments/assets/a9988ccc-935b-4cba-aeb7-c4053082f246)
 
 
 
