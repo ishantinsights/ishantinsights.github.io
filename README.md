@@ -43,19 +43,27 @@
 ## [Project 3: Ecommerce KPI Dashboard Using Tableau](https://public.tableau.com/app/profile/ishant.kamra/viz/SuperStoreDashboard_17016337291000/Dashboard1)
 
 
-
-
-
 ![Ecommerce Dashboard_page-0001](https://github.com/user-attachments/assets/adf6de65-f9e6-4b73-a7e6-427993d556da)
 
 ## Project 4 : KPI Dashboard Using Excel
 
 
-
-
-
 ![KPI Dashboard ](https://github.com/user-attachments/assets/a9988ccc-935b-4cba-aeb7-c4053082f246)
 
+##  [Project 5: OTT Platform Content Strategy Analysis(EDA)](https://github.com/ishantinsights/projects/blob/c8e847e4d7b2ea10dc0df067bdebc6aad00caf36/OTT_Case_Study.ipynb)
 
 
+![download (11)](https://github.com/user-attachments/assets/3e47809c-2a3b-4435-82a7-9d7e2aae4b4e)
+
+> Problem Statement: Analyze the data and generate insights that could help the OTT platform in deciding which type of shows/movies to produce and how they can grow the business in different countries
+
+- **Step 1: Basic Data Checks**: The journey began with exploring and preparing the dataset, which included variables such as subscription duration, content type, viewing time, customer demographics.Basic data checks (handling missing values, duplicate rows, outlier detection, and converting numerical columns to categorical columns) were performed to ensure data integrity and completeness
+  
+- **Step 2: Preprocessing/Data Cleaning and Basic analysis**: Cleaned the data and unnest the columns - cast,country,listed in and director and replaced the null values in categorical columns with unknowns
+
+- **Step 3: EDA** : Univariate and bivariate analyses were conducted to understand the distribution of various factors. This helped identify key trends such as duration of content , preferred content types and preferred country for producing movies/tv shows
+
+- ** Step 5: Insights and Recommendations** : Insights gained from the analysis provided valuable recommendations for the company. For instance, focusing on movie duration within the range 90 to 120 mins and release TV shows atmost 2 seasons
+
+  
 
