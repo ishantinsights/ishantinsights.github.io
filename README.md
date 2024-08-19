@@ -63,7 +63,7 @@
 
 - **Step 3: EDA** : Univariate and bivariate analyses were conducted to understand the distribution of various factors. This helped identify key trends such as duration of content , preferred content types and preferred country for producing movies/tv shows
 
-- **Step 5: Insights and Recommendations** : Insights gained from the analysis provided valuable recommendations for the company. For instance, focusing on movie duration within the range 90 to 120 mins and release TV shows atmost 2 seasons
+- **Step 4: Insights and Recommendations** : Insights gained from the analysis provided valuable recommendations for the company. For instance, focusing on movie duration within the range 90 to 120 mins and release TV shows atmost 2 seasons
 
   
 
